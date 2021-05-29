@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Sean",
+        "background": "#c9daf8",
+        "text": "#000000",
+        "teams": []
+    },
+    {
+        "name": "Chad",
+        "background": "#ea9999",
+        "text": "#000000",
+        "teams": []
+    },
+    {
+        "name": "Andy",
+        "background": "#e69138",
+        "text": "#000000",
+        "teams": []
+    },
+    {
+        "name": "Ian",
+        "background": "#8e7cc3",
+        "text": "#000000",
+        "teams": []
+    },
+    {
+        "name": "Kyle",
+        "background": "#6aa84e",
+        "text": "#000000",
+        "teams": []
+    }
+]
