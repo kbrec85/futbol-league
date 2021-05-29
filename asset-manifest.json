@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/futbol-league/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/futbol-league/static/js/main.11d6a4f5.chunk.js",
+    "main.js.map": "/futbol-league/static/js/main.11d6a4f5.chunk.js.map",
+    "runtime-main.js": "/futbol-league/static/js/runtime-main.eac619fe.js",
+    "runtime-main.js.map": "/futbol-league/static/js/runtime-main.eac619fe.js.map",
+    "static/js/2.a442b7ff.chunk.js": "/futbol-league/static/js/2.a442b7ff.chunk.js",
+    "static/js/2.a442b7ff.chunk.js.map": "/futbol-league/static/js/2.a442b7ff.chunk.js.map",
+    "static/js/3.a5192658.chunk.js": "/futbol-league/static/js/3.a5192658.chunk.js",
+    "static/js/3.a5192658.chunk.js.map": "/futbol-league/static/js/3.a5192658.chunk.js.map",
+    "index.html": "/futbol-league/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/futbol-league/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.a442b7ff.chunk.js.LICENSE.txt": "/futbol-league/static/js/2.a442b7ff.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/futbol-league/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eac619fe.js",
+    "static/js/2.a442b7ff.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.11d6a4f5.chunk.js"
+  ]
+}
